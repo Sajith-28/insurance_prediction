@@ -87,4 +87,4 @@ streamlit run app.py
 
 __This is how our Streamlit Application looks:__
 
-![streamlitapp page](/images/app_1.jpg)
+![Screenshot 2024-07-12 122808](https://github.com/user-attachments/assets/a22da00d-7176-49ca-914d-20a02e09f826)
