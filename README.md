@@ -73,7 +73,7 @@ The notebook __"Insurance_Premium_Prediction_EDA.ipynb"__ contains the code for 
 ### 🟢 Model Building:
 In the notebook __"Insurance_Premium_Prediction_Model Building.ipynb"__ different regression models including Linear Regression, Decision Tree, Random Forest, Gradient Boosting, and KNN, have been trained on the data. The notebook demonstrates the process of data preprocessing, feature engineering, model training, and evaluation using metrics such as RMSE and R-squared. The best-performing model is selected for further use.
 ### 🟢 Model Deployment:
-The project is deployed as a web application using the streamlit API. You can access the application by visiting the link: __https://ashx3-insurance-premium-prediction.streamlit.app__ The web application allows users to input relevant information and obtain predictions on the required medical expenses and insurance premium based on their health data.
+The project is deployed as a web application using the streamlit API. You can access the application by visiting the link:__https://insurance-sajith.streamlit.app//The web application allows users to input relevant information and obtain predictions on the required medical expenses and insurance premium based on their health data.
 
 This project offers a complete data science workflow, from initial data exploration to model training and ultimately presenting predictions through an intuitive web application.
 
